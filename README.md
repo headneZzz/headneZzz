@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Ilya Krutko and I’m Java Back-end Developer.
+- 👀 I’m interested in distributed systems and blockchain.
+- 🌱 I’m currently learning compiling languages like Golang and Rust.
+- 💞️ I’m looking to collaborate on cryptocurrency project.
+- 📫 You reach me by email or telegram.
