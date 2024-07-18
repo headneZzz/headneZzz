@@ -1,5 +1,2 @@
-- 👋 Hi, my name is Ilya Krutko and I’m Java/Kotlin Software Developer.
-- 👀 I’m interested in distributed systems and blockchain.
-- 🌱 I’m currently learning compiling languages like Golang and Rust.
-- 💞️ I’m looking to collaborate on cryptocurrency project.
-- 📫 You reach me by email or telegram.
+- 👋 Hi, my name is Ilya Krutko and I’m Software Developer.
+- 📫 You can reach me by email or telegram.
