@@ -1,2 +1,1 @@
-- 👋 Hi, my name is Ilya Krutko and I’m Software Developer.
-- 📫 You can reach me by email or telegram.
+![Metrics](/github-metrics.svg)
